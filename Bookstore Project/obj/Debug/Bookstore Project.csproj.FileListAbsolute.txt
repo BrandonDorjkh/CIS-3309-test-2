@@ -1,0 +1,11 @@
+G:\Bookstore Project\Bookstore Project\obj\Debug\Bookstore Project.csprojAssemblyReference.cache
+G:\Bookstore Project\Bookstore Project\obj\Debug\Bookstore_Project.EmployeeAccessIDEntry.resources
+G:\Bookstore Project\Bookstore Project\obj\Debug\Bookstore_Project.Properties.Resources.resources
+G:\Bookstore Project\Bookstore Project\obj\Debug\Bookstore Project.csproj.GenerateResource.cache
+G:\Bookstore Project\Bookstore Project\obj\Debug\Bookstore Project.csproj.CoreCompileInputs.cache
+G:\Bookstore Project\Bookstore Project\obj\Debug\Bookstore_Project.EmployeePinForm.resources
+G:\Bookstore Project\Bookstore Project\bin\Debug\Bookstore Project.exe.config
+G:\Bookstore Project\Bookstore Project\bin\Debug\Bookstore Project.exe
+G:\Bookstore Project\Bookstore Project\bin\Debug\Bookstore Project.pdb
+G:\Bookstore Project\Bookstore Project\obj\Debug\Bookstore Project.exe
+G:\Bookstore Project\Bookstore Project\obj\Debug\Bookstore Project.pdb
